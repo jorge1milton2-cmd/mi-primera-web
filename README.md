@@ -1,2 +1,2 @@
-# mi-primera-web
+# mi-primera-web-Hostinger
 Mi primera web en Hostinger
